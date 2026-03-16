@@ -34,6 +34,3 @@ Please purchase the product from [Vector](https://www.vector.co.jp/soft/winnt/ut
 Please register the license obtained during the purchase process with this software.
 
 
-## Others
-
-[HP](https://yaonasu.blogspot.com/)
