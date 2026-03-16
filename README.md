@@ -6,7 +6,6 @@ ii-exsh-diff-pro is a Windows tool for comparing Excel files.
 
 ## Features
 - Visual Excel diff
-- GUI and CLI support
 
 
 ## GUI Image
